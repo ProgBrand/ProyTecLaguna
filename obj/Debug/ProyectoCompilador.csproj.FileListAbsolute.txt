@@ -1,0 +1,74 @@
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO #2\PROYECTO\ProyectoCompilador\obj\Debug\ProyectoCompilador.csprojAssemblyReference.cache
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO #2\PROYECTO\ProyectoCompilador\obj\Debug\ProyectoCompilador.Form1.resources
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO #2\PROYECTO\ProyectoCompilador\obj\Debug\ProyectoCompilador.Properties.Resources.resources
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO #2\PROYECTO\ProyectoCompilador\obj\Debug\ProyectoCompilador.csproj.GenerateResource.cache
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO #2\PROYECTO\ProyectoCompilador\obj\Debug\ProyectoCompilador.csproj.CoreCompileInputs.cache
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO #2\PROYECTO\ProyectoCompilador\bin\Debug\ProyectoCompilador.exe.config
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO #2\PROYECTO\ProyectoCompilador\bin\Debug\ProyectoCompilador.exe
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO #2\PROYECTO\ProyectoCompilador\bin\Debug\ProyectoCompilador.pdb
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO #2\PROYECTO\ProyectoCompilador\obj\Debug\ProyectoCompilador.exe
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO #2\PROYECTO\ProyectoCompilador\obj\Debug\ProyectoCompilador.pdb
+C:\Users\jesus\Downloads\ProyectoCompilador\bin\Debug\ProyectoCompilador.exe.config
+C:\Users\jesus\Downloads\ProyectoCompilador\bin\Debug\ProyectoCompilador.exe
+C:\Users\jesus\Downloads\ProyectoCompilador\bin\Debug\ProyectoCompilador.pdb
+C:\Users\jesus\Downloads\ProyectoCompilador\obj\Debug\ProyectoCompilador.csproj.AssemblyReference.cache
+C:\Users\jesus\Downloads\ProyectoCompilador\obj\Debug\ProyectoCompilador.Form1.resources
+C:\Users\jesus\Downloads\ProyectoCompilador\obj\Debug\ProyectoCompilador.Properties.Resources.resources
+C:\Users\jesus\Downloads\ProyectoCompilador\obj\Debug\ProyectoCompilador.csproj.GenerateResource.cache
+C:\Users\jesus\Downloads\ProyectoCompilador\obj\Debug\ProyectoCompilador.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Downloads\ProyectoCompilador\obj\Debug\ProyectoCompilador.exe
+C:\Users\jesus\Downloads\ProyectoCompilador\obj\Debug\ProyectoCompilador.pdb
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO FINAL UD1\ProyectoCompilador\bin\Debug\ProyectoCompilador.exe.config
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO FINAL UD1\ProyectoCompilador\bin\Debug\ProyectoCompilador.exe
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO FINAL UD1\ProyectoCompilador\bin\Debug\ProyectoCompilador.pdb
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO FINAL UD1\ProyectoCompilador\obj\Debug\ProyectoCompilador.csprojAssemblyReference.cache
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO FINAL UD1\ProyectoCompilador\obj\Debug\ProyectoCompilador.Form1.resources
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO FINAL UD1\ProyectoCompilador\obj\Debug\ProyectoCompilador.Properties.Resources.resources
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO FINAL UD1\ProyectoCompilador\obj\Debug\ProyectoCompilador.csproj.GenerateResource.cache
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO FINAL UD1\ProyectoCompilador\obj\Debug\ProyectoCompilador.csproj.CoreCompileInputs.cache
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO FINAL UD1\ProyectoCompilador\obj\Debug\ProyectoCompilador.exe
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO FINAL UD1\ProyectoCompilador\obj\Debug\ProyectoCompilador.pdb
+C:\Users\jesus\Downloads\NuevaCarpetaProyecto\ProyectoCompilador\bin\Debug\ProyectoCompilador.exe.config
+C:\Users\jesus\Downloads\NuevaCarpetaProyecto\ProyectoCompilador\bin\Debug\ProyectoCompilador.exe
+C:\Users\jesus\Downloads\NuevaCarpetaProyecto\ProyectoCompilador\bin\Debug\ProyectoCompilador.pdb
+C:\Users\jesus\Downloads\NuevaCarpetaProyecto\ProyectoCompilador\obj\Debug\ProyectoCompilador.csproj.AssemblyReference.cache
+C:\Users\jesus\Downloads\NuevaCarpetaProyecto\ProyectoCompilador\obj\Debug\ProyectoCompilador.Form1.resources
+C:\Users\jesus\Downloads\NuevaCarpetaProyecto\ProyectoCompilador\obj\Debug\ProyectoCompilador.Properties.Resources.resources
+C:\Users\jesus\Downloads\NuevaCarpetaProyecto\ProyectoCompilador\obj\Debug\ProyectoCompilador.csproj.GenerateResource.cache
+C:\Users\jesus\Downloads\NuevaCarpetaProyecto\ProyectoCompilador\obj\Debug\ProyectoCompilador.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Downloads\NuevaCarpetaProyecto\ProyectoCompilador\obj\Debug\ProyectoCompilador.exe
+C:\Users\jesus\Downloads\NuevaCarpetaProyecto\ProyectoCompilador\obj\Debug\ProyectoCompilador.pdb
+C:\Users\jesus\Downloads\NuevaCarpetaProyecto\ProyectoCompilador\obj\Debug\ProyectoCompilador.Splash.resources
+C:\Users\usuario\source\repos\ProyectoCompilador(8\ProyectoCompilador\obj\Debug\ProyectoCompilador.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\ProyectoCompilador(8\ProyectoCompilador\obj\Debug\ProyectoCompilador.Form1.resources
+C:\Users\usuario\source\repos\ProyectoCompilador(8\ProyectoCompilador\obj\Debug\ProyectoCompilador.Properties.Resources.resources
+C:\Users\usuario\source\repos\ProyectoCompilador(8\ProyectoCompilador\obj\Debug\ProyectoCompilador.Splash.resources
+C:\Users\usuario\source\repos\ProyectoCompilador(8\ProyectoCompilador\obj\Debug\ProyectoCompilador.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\ProyectoCompilador(8\ProyectoCompilador\obj\Debug\ProyectoCompilador.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\ProyectoCompilador(8\ProyectoCompilador\obj\Debug\ProyectoCompilador.exe
+C:\Users\usuario\source\repos\ProyectoCompilador(8\ProyectoCompilador\obj\Debug\ProyectoCompilador.pdb
+C:\Users\usuario\source\repos\ProyectoCompilador(8\ProyectoCompilador\bin\Debug\ProyectoCompilador.exe.config
+C:\Users\usuario\source\repos\ProyectoCompilador(8\ProyectoCompilador\bin\Debug\ProyectoCompilador.exe
+C:\Users\usuario\source\repos\ProyectoCompilador(8\ProyectoCompilador\bin\Debug\ProyectoCompilador.pdb
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO FINAL UD1\PROYECTO COMPLETO\ProyectoCompilador(8\ProyectoCompilador\bin\Debug\ProyectoCompilador.exe.config
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO FINAL UD1\PROYECTO COMPLETO\ProyectoCompilador(8\ProyectoCompilador\bin\Debug\ProyectoCompilador.exe
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO FINAL UD1\PROYECTO COMPLETO\ProyectoCompilador(8\ProyectoCompilador\bin\Debug\ProyectoCompilador.pdb
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO FINAL UD1\PROYECTO COMPLETO\ProyectoCompilador(8\ProyectoCompilador\obj\Debug\ProyectoCompilador.csprojAssemblyReference.cache
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO FINAL UD1\PROYECTO COMPLETO\ProyectoCompilador(8\ProyectoCompilador\obj\Debug\ProyectoCompilador.Form1.resources
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO FINAL UD1\PROYECTO COMPLETO\ProyectoCompilador(8\ProyectoCompilador\obj\Debug\ProyectoCompilador.Properties.Resources.resources
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO FINAL UD1\PROYECTO COMPLETO\ProyectoCompilador(8\ProyectoCompilador\obj\Debug\ProyectoCompilador.Splash.resources
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO FINAL UD1\PROYECTO COMPLETO\ProyectoCompilador(8\ProyectoCompilador\obj\Debug\ProyectoCompilador.csproj.GenerateResource.cache
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO FINAL UD1\PROYECTO COMPLETO\ProyectoCompilador(8\ProyectoCompilador\obj\Debug\ProyectoCompilador.csproj.CoreCompileInputs.cache
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO FINAL UD1\PROYECTO COMPLETO\ProyectoCompilador(8\ProyectoCompilador\obj\Debug\ProyectoCompilador.exe
+C:\Users\zaida sugey\Desktop\SEPTIMO SEMESTRE\LENGUAJES Y AUTOMATAS 2\PROYECTO FINAL UD1\PROYECTO COMPLETO\ProyectoCompilador(8\ProyectoCompilador\obj\Debug\ProyectoCompilador.pdb
+C:\Users\brand\OneDrive\Documentos\TEC LAGUNA\AUTOMATAS II\proy2\ProyectoCompilador\bin\Debug\ProyectoCompilador.exe.config
+C:\Users\brand\OneDrive\Documentos\TEC LAGUNA\AUTOMATAS II\proy2\ProyectoCompilador\bin\Debug\ProyectoCompilador.exe
+C:\Users\brand\OneDrive\Documentos\TEC LAGUNA\AUTOMATAS II\proy2\ProyectoCompilador\bin\Debug\ProyectoCompilador.pdb
+C:\Users\brand\OneDrive\Documentos\TEC LAGUNA\AUTOMATAS II\proy2\ProyectoCompilador\obj\Debug\ProyectoCompilador.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Documentos\TEC LAGUNA\AUTOMATAS II\proy2\ProyectoCompilador\obj\Debug\ProyectoCompilador.Form1.resources
+C:\Users\brand\OneDrive\Documentos\TEC LAGUNA\AUTOMATAS II\proy2\ProyectoCompilador\obj\Debug\ProyectoCompilador.Properties.Resources.resources
+C:\Users\brand\OneDrive\Documentos\TEC LAGUNA\AUTOMATAS II\proy2\ProyectoCompilador\obj\Debug\ProyectoCompilador.Splash.resources
+C:\Users\brand\OneDrive\Documentos\TEC LAGUNA\AUTOMATAS II\proy2\ProyectoCompilador\obj\Debug\ProyectoCompilador.csproj.GenerateResource.cache
+C:\Users\brand\OneDrive\Documentos\TEC LAGUNA\AUTOMATAS II\proy2\ProyectoCompilador\obj\Debug\ProyectoCompilador.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Documentos\TEC LAGUNA\AUTOMATAS II\proy2\ProyectoCompilador\obj\Debug\ProyectoCompilador.exe
+C:\Users\brand\OneDrive\Documentos\TEC LAGUNA\AUTOMATAS II\proy2\ProyectoCompilador\obj\Debug\ProyectoCompilador.pdb
